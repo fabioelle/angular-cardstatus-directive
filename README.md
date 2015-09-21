@@ -9,6 +9,22 @@
 3. Add 'cardstatus-directive' as a dependency to your app.
 4. Make '<cardstatus ng-model="{{your_model}}"></cardstatus>'.
 
+## Data Model:
+[
+...
+	{
+	"type":"vexilar",
+	"trend":{
+		"average":0.06246506725437939,
+		"total":27048,
+		"week":449,
+		"l_week":0.0249308489728719,
+		"l_w_t":"-"
+		}
+	},
+...
+]
+
 ## Bower
 Installable via 'bower':
 
